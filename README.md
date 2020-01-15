@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src = "https://user-images.githubusercontent.com/29548128/71769266-43433580-2f62-11ea-8d41-ae40f21f8c50.png"><br/>
+  <img src = "https://github.com/KGJsGit/sandol_bot/blob/master/%EC%82%B0%EB%8F%8C%EC%9D%B4jpeg.jpg?raw=true"><br/>
 </h1>
 
 # sandol_bot
