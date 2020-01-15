@@ -1,11 +1,12 @@
 <h1 align="center">
   <img src = "https://github.com/KGJsGit/sandol_bot/blob/master/%EC%82%B0%EB%8F%8C%EC%9D%B4jpeg.jpg?raw=true"><br/>
 </h1>
-
-# sandol_bot
-심심해서 만드는 한국산업기술대학교 챗봇 -산돌이-
 <br/>
 
+ # sandol_bot
+심심해서 만드는 한국산업기술대학교 챗봇 -산돌이-
+<br/>
+<br/>
 
 ## 진행 상황(20.01.13)
 - [ ] 셔틀 시간표 조회(.img)
@@ -40,7 +41,6 @@
     - [ ] 기초적인 대화 모델 제작
     - [ ] 대화처리 통계 및 분석을 통한 프로젝트 마무리
 <br/>
-
 
 ## 이슈 사항
 - 셔틀 : 정왕역 방향 / 오이도역 방향에 따른 셔틀 시간표 조회 :: 홈페이지 시간표 img 파싱 -> 이거 플래시작동;
