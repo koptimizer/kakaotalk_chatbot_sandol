@@ -5,6 +5,7 @@
 
  # sandol_bot
 심심해서 만드는 한국산업기술대학교 챗봇 -산돌이-
+->> http://pf.kakao.com/_pRxlZxb/chat
 <br/>
 <br/>
 
