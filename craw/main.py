@@ -1,0 +1,3 @@
+import sandol
+
+sandol.start()
