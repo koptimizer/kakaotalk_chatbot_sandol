@@ -11,6 +11,8 @@
   - Email = rhkswhdwkd@naver.com // ilovecoding@kakao.com
 - 카카오톡 친구추가 URL : http://pf.kakao.com/_pRxlZxb/chat
 - Since 20.01.03
+<img src = "https://github.com/KGJsGit/kakaotalk_chatbot_sandol/blob/master/%EC%BA%A1%EC%B2%981.JPG?raw=true">
+<img src = "https://github.com/KGJsGit/kakaotalk_chatbot_sandol/blob/master/%EC%BA%A1%EC%B2%98.JPG?raw=true">
 <br/>
 
 ## 📃 작동 방식
