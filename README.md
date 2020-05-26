@@ -1,5 +1,5 @@
 
-<img src = "https://github.com/KGJsGit/sandol_bot/blob/master/%EC%82%B0%EB%8F%8C%EC%9D%B4jpeg.jpg?raw=true">
+<img src = "https://github.com/koptimizer/sandol_bot/blob/master/%EC%82%B0%EB%8F%8C%EC%9D%B4jpeg.jpg?raw=true">
 
 ## 🤖 한국산업기술대학교 챗봇 산돌이
 ```
@@ -7,12 +7,12 @@
 교내외 학식메뉴, 셔틀시간표, 학교 날씨, 인근역 막차 시간표 등 다양한 정보를 제공합니다!
 ```
 - 개발 및 디자인 : 16' IT경영학과 고광종
-  - Github = https://github.com/KGJsGit
+  - Github = https://github.com/koptimizer
   - Email = rhkswhdwkd@naver.com // ilovecoding@kakao.com
 - 카카오톡 친구추가 URL : http://pf.kakao.com/_pRxlZxb/chat
 - Since 20.01.03
-<img src = "https://github.com/KGJsGit/kakaotalk_chatbot_sandol/blob/master/%EC%BA%A1%EC%B2%981.JPG?raw=true">
-<img src = "https://github.com/KGJsGit/kakaotalk_chatbot_sandol/blob/master/%EC%BA%A1%EC%B2%98.JPG?raw=true">
+<img src = "https://github.com/koptimizer/kakaotalk_chatbot_sandol/blob/master/%EC%BA%A1%EC%B2%981.JPG?raw=true">
+<img src = "https://github.com/koptimizer/kakaotalk_chatbot_sandol/blob/master/%EC%BA%A1%EC%B2%98.JPG?raw=true">
 <br/>
 
 ## 📃 작동 방식
