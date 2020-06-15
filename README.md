@@ -15,8 +15,9 @@
 <img src = "https://github.com/koptimizer/kakaotalk_chatbot_sandol/blob/master/%EC%BA%A1%EC%B2%98.JPG?raw=true">
 <br/>
 
-## 교내 주간지에 소개된 산돌이
+## 교내 주간지에 소개된 산돌이 (학보 490호 6면)
 <img src = "https://github.com/koptimizer/kakaotalk_chatbot_sandol/blob/master/pics/news.jpg" height = "500px">
+<br/>
 
 ## 📃 작동 방식
 1. 매일 00:00 : 필요정보 크롤링(학식식단, 막차시간, 정왕역날씨, 학사공지)후, 파싱해서 서버 DB에 업로드(python, mySql)<br/>
