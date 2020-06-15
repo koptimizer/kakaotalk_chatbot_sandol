@@ -15,6 +15,9 @@
 <img src = "https://github.com/koptimizer/kakaotalk_chatbot_sandol/blob/master/%EC%BA%A1%EC%B2%98.JPG?raw=true">
 <br/>
 
+## 교내 주간지에 소개된 산돌이
+<img src = "https://github.com/koptimizer/kakaotalk_chatbot_sandol/blob/master/.jpg?raw=true">
+
 ## 📃 작동 방식
 1. 매일 00:00 : 필요정보 크롤링(학식식단, 막차시간, 정왕역날씨, 학사공지)후, 파싱해서 서버 DB에 업로드(python, mySql)<br/>
   ㄴ 외부식당메뉴는 각 식당 사장님들이 산돌이에게 직접 메뉴 업로드(사장님들의 고유ID 식별)
