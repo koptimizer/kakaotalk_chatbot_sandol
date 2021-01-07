@@ -1,5 +1,4 @@
-
-<img src = "https://github.com/koptimizer/kakaotalk_chatbot_sandol/blob/master/%EC%82%B0%EB%8F%8C%EC%9D%B4jpeg.jpg">
+<img src = "https://github.com/koptimizer/kakaotalk_chatbot_sandol/blob/master/pics/sandol.jpg">
 
 ## 🤖 한국산업기술대학교 챗봇 산돌이
 ```
