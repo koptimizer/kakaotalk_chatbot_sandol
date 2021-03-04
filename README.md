@@ -66,5 +66,5 @@
 - NLP 발화 추가 이슈 고민...
 <br/>
 
-## 챗봇강의문의
+## 🎓 챗봇강좌문의
 - rhkswhdwkd@naver.com
