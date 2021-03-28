@@ -5,9 +5,8 @@
 안녕하세요! 한국산업기술대학교 챗봇 산돌이입니다!
 교내외 학식메뉴, 셔틀시간표, 학교 날씨, 인근역 막차 시간표 등 다양한 정보를 제공합니다!
 ```
-- 개발 및 디자인 : 고광종
-  - Github = https://github.com/koptimizer
-  - Email = rhkswhdwkd@naver.com // ilovecoding@kakao.com
+- Github = https://github.com/koptimizer
+- Email = rhkswhdwkd@naver.com // ilovecoding@kakao.com
 - 카카오톡 친구추가 URL : http://pf.kakao.com/_pRxlZxb/chat
 - Since 20.01.03
 <img src = 'https://github.com/koptimizer/kakaotalk_chatbot_sandol/blob/master/pics/cap.jpg'>
@@ -27,8 +26,7 @@
 4. 산돌이 관련 질문은 Issue에 남겨주세요!
 <br/>
 
-
-## 🔎 구현 상황(20.06.13)
+## 🔎 구현 상황(21.03.29)
 - [x] 셔틀 시간표 조회(img)
 - [x] 금일 학식 및 외부 식당 식단 조회
     - [x] 썬푸드 학식
@@ -44,27 +42,29 @@
     - [x] 휴게장소
     - [x] 큐브 위치
 - [x] 학교 내선번호 안내
-- [x] 대학로 추천
-    - [x] KPU World 적용
-- [ ] 학교 공지 조회 (적용 검토중)
+- [x] 대학로 먹거리 추천
+- [x] 학교 공지 조회
     - [x] 학사공지 
 - [ ] 게임 정보 조회 (적용 검토중)
     - [x] LoL 인게임 전적 및 티어조회
     - [x] MapleStory 인게임 캐릭터 정보 및 룩 조회
 - [x] 후원 및 건의
-    - [] 산돌이 건의
+    - [x] 산돌이 건의
     - [x] 후원 등록
 <br/>
 
-## 🔧 이슈 사항(21.01.08)
-- 크롤링해야하는 대부분의 정보(셔틀, 교내학식 등)가 flash기반으로 웹에 표현되서 해당 정보는 크롤링이 아예 안됨.
-  - 셔틀은 어짜피 자주 바뀌는 항목이 아니니 내가 수동으로 입력
-  - 학식은 일주일 단위로 식단표가 나오니 1주일에 한번씩 수동으로 개인 홈페이지에 올리고 크롤링.
-- 외부 식당끼리의 메뉴 조회 금지 및 식단 수정기능 필요
-  - 외부식당 사장님이 '학식조회' 관련 발화을 하면 고유 ID를 식별해서 타 외부 식당을 제외하고 출력하도록 함
-  - 위의 기능을 조금 수정해서 메뉴수정의 기능 추가
-- NLP 발화 추가 이슈 고민...
-<br/>
+## 🔧 산돌팀21
+- 21.03.02 이후 산돌이의 관리 및 지속가능한 서비스 구현을 위해서 산돌팀21을 만들어 활동하고 있습니다.
+  - [**고광종**](https://github.com/koptimizer) - <rhkswhdwkd@naver.com>
+    산돌팀21 총괄 및 경영
+  - [**박준하**](https://github.com/Cycrypto) - <jh01love@naver.com>
+    산돌이 스킬 및 로직파트 메인개발
+  - [**이지호**](https://github.com/DPS0340) - <optional.int@kakao.com>
+    산돌이 데브옵스 및 보조개발, 웹 서비스 플랫폼 검토
+  - [**허민**](https://github.com/hhhminme) - <huhmn0409@naver.com>
+    경영지원 및 프론트엔드 개발
+- 산돌팀21 체제 전환 이후, Github action을 이용한 CI/CD 파이프라인으로 스킬들을 관리하고 있습니다.
+- [관련 Repository 바로가기](https://github.com/hhhminme/kpu_sandol_team)
 
 ## 🎓 챗봇강좌문의
 - rhkswhdwkd@naver.com
