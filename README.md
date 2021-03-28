@@ -64,7 +64,7 @@
   - [**허민**](https://github.com/hhhminme) - <huhmn0409@naver.com>
     경영지원 및 프론트엔드 개발
 - 산돌팀21 체제 전환 이후, Github action을 이용한 CI/CD 파이프라인으로 스킬들을 관리하고 있습니다.
-- [관련 Repository 바로가기](https://github.com/hhhminme/kpu_sandol_team)
+  - [관련 Repository 바로가기](https://github.com/hhhminme/kpu_sandol_team)
 
 ## 🎓 챗봇강좌문의
 - rhkswhdwkd@naver.com
