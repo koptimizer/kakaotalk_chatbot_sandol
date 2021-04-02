@@ -5,6 +5,7 @@
 안녕하세요! 한국산업기술대학교 챗봇 산돌이입니다!
 교내외 학식메뉴, 셔틀시간표, 학교 날씨, 인근역 막차 시간표 등 다양한 정보를 제공합니다!
 ```
+- Develope & Design = 고광종
 - Github = https://github.com/koptimizer
 - Email = rhkswhdwkd@naver.com // ilovecoding@kakao.com
 - 카카오톡 친구추가 URL : http://pf.kakao.com/_pRxlZxb/chat
