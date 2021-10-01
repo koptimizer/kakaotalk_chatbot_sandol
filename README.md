@@ -13,7 +13,7 @@
 <img src = 'https://github.com/koptimizer/kakaotalk_chatbot_sandol/blob/master/pics/cap.jpg'>
 <br/>
 
-## "" (본교 학보 490호 6면)
+## "카톡 챗봇으로 알찬 정보 " (본교 학보 490호 6면)
 <img src = "https://github.com/koptimizer/kakaotalk_chatbot_sandol/blob/master/pics/news.jpg" height = "500px">
 <br/>
 
