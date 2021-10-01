@@ -13,8 +13,12 @@
 <img src = 'https://github.com/koptimizer/kakaotalk_chatbot_sandol/blob/master/pics/cap.jpg'>
 <br/>
 
-## 교내 주간지에 소개된 산돌이 (학보 490호 6면)
+## "" (본교 학보 490호 6면)
 <img src = "https://github.com/koptimizer/kakaotalk_chatbot_sandol/blob/master/pics/news.jpg" height = "500px">
+<br/>
+
+## "우리 대학의 빛나는 주역" (본교 학보 509호 5면)
+<img src = "https://github.com/koptimizer/kakaotalk_chatbot_sandol/blob/master/pics/news2.jpg" height = "500px">
 <br/>
 
 ## 📃 작동 방식
